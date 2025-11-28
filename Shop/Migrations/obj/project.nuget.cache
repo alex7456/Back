@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7u8am1B+B8w=",
+  "dgSpecHash": "GnkcYjVeYrI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
+  "projectFilePath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AStroynyy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\AStroynyy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -75,15 +75,5 @@
     "C:\\Users\\AStroynyy\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\AStroynyy\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

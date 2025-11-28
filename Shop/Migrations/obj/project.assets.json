@@ -3315,11 +3315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
+      "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
       "projectName": "Migrations",
-      "projectPath": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
+      "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
       "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\obj\\",
+      "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3404,13 +3404,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }
