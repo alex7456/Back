@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj": {}
+    "c:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj": {
+    "c:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
+        "projectUniqueName": "c:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
         "projectName": "Migrations",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
+        "projectPath": "c:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\obj\\",
+        "outputPath": "c:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,6 +57,10 @@
               "version": "[6.2.0, )"
             },
             "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
               "target": "Package",
               "version": "[9.0.0, )"
             },

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj",
+      "projectUniqueName": "c:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj",
+      "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\obj\\",
+      "outputPath": "c:\\Users\\AStroynyy\\Backend-main\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"

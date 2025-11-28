@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj": {}
+    "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj": {
+    "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj",
+        "projectUniqueName": "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj",
+        "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\obj\\",
+        "outputPath": "c:\\Users\\AStroynyy\\Backend-main\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"

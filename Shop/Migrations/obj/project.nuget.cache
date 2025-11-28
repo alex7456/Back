@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GnkcYjVeYrI=",
+  "dgSpecHash": "LK0dQy9krBU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
+  "projectFilePath": "c:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AStroynyy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\AStroynyy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -32,6 +32,7 @@
     "C:\\Users\\AStroynyy\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.2.0\\microsoft.data.sqlclient.sni.runtime.5.2.0.nupkg.sha512",
     "C:\\Users\\AStroynyy\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
     "C:\\Users\\AStroynyy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\AStroynyy\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\9.0.0\\microsoft.extensions.configuration.environmentvariables.9.0.0.nupkg.sha512",
     "C:\\Users\\AStroynyy\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.0\\microsoft.extensions.configuration.fileextensions.9.0.0.nupkg.sha512",
     "C:\\Users\\AStroynyy\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.0\\microsoft.extensions.configuration.json.9.0.0.nupkg.sha512",
     "C:\\Users\\AStroynyy\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
