@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj": {}
+    "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj": {
+    "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
+        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
         "projectName": "Migrations",
-        "projectPath": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\Migrations.csproj",
+        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\Shop\\Shop\\Migrations\\obj\\",
+        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
