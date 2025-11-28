@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AStroynyy\\avo\\Backend\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\AStroynyy\\Backend-main\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj": {
+    "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj",
+        "projectUniqueName": "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj",
+        "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\obj\\",
+        "outputPath": "c:\\Users\\AStroynyy\\Backend-main\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj": {
+    "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj",
+        "projectUniqueName": "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj",
         "projectName": "Messages",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj",
+        "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\obj\\",
+        "outputPath": "c:\\Users\\AStroynyy\\Backend-main\\Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj": {
+    "c:\\Users\\AStroynyy\\Backend-main\\Migrations\\Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
+        "projectUniqueName": "c:\\Users\\AStroynyy\\Backend-main\\Migrations\\Migrations.csproj",
         "projectName": "Migrations",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj",
+        "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Migrations\\Migrations.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\obj\\",
+        "outputPath": "c:\\Users\\AStroynyy\\Backend-main\\Migrations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -184,6 +184,10 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.Extensions.Configuration.FileExtensions": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -221,14 +225,14 @@
         }
       }
     },
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj": {
+    "C:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\obj\\",
+        "outputPath": "C:\\Users\\AStroynyy\\Backend-main\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -280,14 +284,14 @@
         }
       }
     },
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Oms\\Oms.csproj": {
+    "C:\\Users\\AStroynyy\\Backend-main\\Oms\\Oms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Oms\\Oms.csproj",
+        "projectUniqueName": "C:\\Users\\AStroynyy\\Backend-main\\Oms\\Oms.csproj",
         "projectName": "Oms",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Oms\\Oms.csproj",
+        "projectPath": "C:\\Users\\AStroynyy\\Backend-main\\Oms\\Oms.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Oms\\obj\\",
+        "outputPath": "C:\\Users\\AStroynyy\\Backend-main\\Oms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -302,14 +306,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Common\\Common.csproj"
+              "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj": {
+                "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Common\\Common.csproj"
               },
-              "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj": {
-                "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj"
+              "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj": {
+                "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj"
               },
-              "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj"
+              "C:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj"
               }
             }
           }
@@ -330,6 +334,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.18.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.8, )"
@@ -362,14 +370,14 @@
         }
       }
     },
-    "C:\\Users\\AStroynyy\\avo\\Backend\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\AStroynyy\\Backend-main\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\AStroynyy\\Backend-main\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\AStroynyy\\Backend-main\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\AStroynyy\\Backend-main\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -384,17 +392,17 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj": {
-                "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj"
+              "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj": {
+                "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj"
               },
-              "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj": {
-                "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Migrations\\Migrations.csproj"
+              "c:\\Users\\AStroynyy\\Backend-main\\Migrations\\Migrations.csproj": {
+                "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Migrations\\Migrations.csproj"
               },
-              "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Models\\Models.csproj"
+              "C:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\AStroynyy\\Backend-main\\Models\\Models.csproj"
               },
-              "C:\\Users\\AStroynyy\\avo\\Backend\\Oms\\Oms.csproj": {
-                "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Oms\\Oms.csproj"
+              "C:\\Users\\AStroynyy\\Backend-main\\Oms\\Oms.csproj": {
+                "projectPath": "C:\\Users\\AStroynyy\\Backend-main\\Oms\\Oms.csproj"
               }
             }
           }

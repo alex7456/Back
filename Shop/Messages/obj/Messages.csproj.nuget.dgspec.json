@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj": {}
+    "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj": {
+    "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj",
+        "projectUniqueName": "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj",
         "projectName": "Messages",
-        "projectPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\Messages.csproj",
+        "projectPath": "c:\\Users\\AStroynyy\\Backend-main\\Messages\\Messages.csproj",
         "packagesPath": "C:\\Users\\AStroynyy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AStroynyy\\avo\\Backend\\Messages\\obj\\",
+        "outputPath": "c:\\Users\\AStroynyy\\Backend-main\\Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AStroynyy\\AppData\\Roaming\\NuGet\\NuGet.Config"
